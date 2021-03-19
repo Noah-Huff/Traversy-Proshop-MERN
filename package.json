@@ -1,0 +1,22 @@
+{
+  "name": "traversy-proshop-mern",
+  "version": "1.0.0",
+  "description": "MERN shopping cart",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noah-Huff/Traversy-Proshop-MERN.git"
+  },
+  "author": "Noah Huff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Noah-Huff/Traversy-Proshop-MERN/issues"
+  },
+  "homepage": "https://github.com/Noah-Huff/Traversy-Proshop-MERN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
